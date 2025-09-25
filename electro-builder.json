@@ -1,0 +1,13 @@
+{
+  "appId": "com.despacho.app",
+  "productName": "Despacho App",
+  "directories": {
+    "output": "dist-electron"
+  },
+  "files": [
+    "dist/**/*",
+    "electron/**/*",
+    "electron/**/*.cjs",
+    "node_modules/**/*"
+  ]
+}
